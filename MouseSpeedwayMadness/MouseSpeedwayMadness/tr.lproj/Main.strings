@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Moves"; ObjectID = "37Q-t4-ydb"; */
+"37Q-t4-ydb.text" = "Moves";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "3Ra-hU-0kI"; */
+"3Ra-hU-0kI.text" = "Feedback";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "Cc0-lx-yNA"; */
+"Cc0-lx-yNA.text" = "Game Over";
+
+/* Class = "UILabel"; text = "Level"; ObjectID = "GmZ-Bh-21j"; */
+"GmZ-Bh-21j.text" = "Level";
+
+/* Class = "UILabel"; text = "the ultimate puzzel!"; ObjectID = "I79-eh-wpF"; */
+"I79-eh-wpF.text" = "the ultimate puzzel!";
+
+/* Class = "UILabel"; text = "Level - 1"; ObjectID = "NAE-s2-cn7"; */
+"NAE-s2-cn7.text" = "Level - 1";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "PcI-hq-iNr"; */
+"PcI-hq-iNr.text" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QSs-uX-KM6"; */
+"QSs-uX-KM6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score : 0"; ObjectID = "SsR-6v-mlR"; */
+"SsR-6v-mlR.text" = "Score : 0";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "TKE-1E-24R"; */
+"TKE-1E-24R.text" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "caP-k9-4De"; */
+"caP-k9-4De.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "SETTING"; ObjectID = "i5f-AY-LND"; */
+"i5f-AY-LND.text" = "SETTING";
+
+/* Class = "UILabel"; text = "Be quick, be sharp, be the ultimate mouse champion!"; ObjectID = "iBd-Zc-EiR"; */
+"iBd-Zc-EiR.text" = "Be quick, be sharp, be the ultimate mouse champion!";
+
+/* Class = "UILabel"; text = "Level - 1"; ObjectID = "j0v-BH-Gfu"; */
+"j0v-BH-Gfu.text" = "Level - 1";
+
+/* Class = "UITextView"; text = "Welcome to Mouse Speedway Madness, the ultimate action-packed game that takes you on a thrilling race through challenging mazes and high-speed adventures! Our game is designed for players of all ages who love the thrill of competition and the challenge of quick thinking.\n\nIn Mouse Speedway Madness, you take control of a daring little mouse on a mission to navigate tricky lanes, avoid obstacles, and outsmart foes in a race to the finish line. Whether it’s dodging traps or chasing down cheese, every second counts in this madcap adventure!\n\nWe are passionate about creating engaging, fun, and fast-paced experiences that keep you on your toes and wanting more. Our goal is to deliver excitement, strategy, and a dash of madness in every level you conquer.\n\nWith intuitive controls, vibrant graphics, and dynamic gameplay, Mouse Speedway Madness is more than just a game – it’s a race against time where your reflexes and wit are put to the ultimate test.\n\nGet ready to race, strategize, and experience the speedway madness. The cheese is waiting – are you fast enough to grab it?"; ObjectID = "mgv-yl-WfJ"; */
+"mgv-yl-WfJ.text" = "Welcome to Mouse Speedway Madness, the ultimate action-packed game that takes you on a thrilling race through challenging mazes and high-speed adventures! Our game is designed for players of all ages who love the thrill of competition and the challenge of quick thinking.\n\nIn Mouse Speedway Madness, you take control of a daring little mouse on a mission to navigate tricky lanes, avoid obstacles, and outsmart foes in a race to the finish line. Whether it’s dodging traps or chasing down cheese, every second counts in this madcap adventure!\n\nWe are passionate about creating engaging, fun, and fast-paced experiences that keep you on your toes and wanting more. Our goal is to deliver excitement, strategy, and a dash of madness in every level you conquer.\n\nWith intuitive controls, vibrant graphics, and dynamic gameplay, Mouse Speedway Madness is more than just a game – it’s a race against time where your reflexes and wit are put to the ultimate test.\n\nGet ready to race, strategize, and experience the speedway madness. The cheese is waiting – are you fast enough to grab it?";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "nBW-3z-YqH"; */
+"nBW-3z-YqH.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Game Mode"; ObjectID = "nYY-E4-PkK"; */
+"nYY-E4-PkK.text" = "Game Mode";
+
+/* Class = "UILabel"; text = "Score : 0"; ObjectID = "oOO-jO-G3a"; */
+"oOO-jO-G3a.text" = "Score : 0";
+
+/* Class = "UILabel"; text = "Speedway Madness"; ObjectID = "rfe-dH-be2"; */
+"rfe-dH-be2.text" = "Speedway Madness";
+
+/* Class = "UILabel"; text = "Mouse Puzzel"; ObjectID = "rfp-6m-bhp"; */
+"rfp-6m-bhp.text" = "Mouse Puzzel";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "tcF-jL-VaG"; */
+"tcF-jL-VaG.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tmy-kc-qrC"; */
+"tmy-kc-qrC.text" = "Label";
+
+/* Class = "UILabel"; text = "the ultimate race!"; ObjectID = "ubg-B2-71Q"; */
+"ubg-B2-71Q.text" = "the ultimate race!";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "zNE-o5-HiX"; */
+"zNE-o5-HiX.text" = "About Us";
